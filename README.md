@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Consórcio Rodobens | Caminhão, Veículos e Imóveis</title>
+  <meta name="description" content="Consórcio Rodobens sem juros. Caminhão, veículos, frota e imóveis. Parcelas planejadas e economia real. Fale agora no WhatsApp." />
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; margin: 0; background: #f6f7f9; color: #222; }
+    .container { max-width: 980px; margin: auto; padding: 20px; }
+    header { background: #0f172a; color: #fff; padding: 40px 20px; }
+    header h1 { margin: 0 0 10px; font-size: 34px; }
+    header p { font-size: 18px; margin: 0 0 20px; }
+    .cta-btn { background: #22c55e; color: #000; padding: 16px 26px; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 20px; margin: 40px 0; }
+    .card { background: #fff; border-radius: 12px; padding: 24px; box-shadow: 0 4px 14px rgba(0,0,0,.08); }
+    .card h3 { margin-top: 0; }
+    .highlight { background: #e5f9ee; border-left: 6px solid #22c55e; padding: 20px; border-radius: 8px; }
+    .section { margin: 50px 0; }
+    footer { background: #0f172a; color: #fff; padding: 30px 20px; text-align: center; }
+    .fixed-whatsapp { position: fixed; bottom: 20px; right: 20px; background: #22c55e; padding: 14px 18px; border-radius: 50px; font-weight: bold; }
+    .fixed-whatsapp a { color: #000; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>Consórcio Rodobens Sem Juros</h1>
+    <p>Automóveis • Caminhões • Motos • Imóveis • Máquinas e Equipamentos • Serviços<br>Planeje hoje e economize milhares de reais.</p>
+    <a class="cta-btn" href="https://wa.me/5531996928531">Falar com Especialista no WhatsApp</a>
+  </div>
+</header>
+
+<section class="container section">
+  <div class="grid">
+    <div class="card">
+      <h3>🚗 Automóveis</h3>
+      <p>Compre ou troque seu carro com parcelas planejadas e sem juros.</p>
+    </div>
+    <div class="card">
+      <h3>🚛 Caminhões</h3>
+      <p>Ideal para autônomos e empresas que querem crescer sem pagar juros abusivos.</p>
+    </div>
+    <div class="card">
+      <h3>🏍️ Motos</h3>
+      <p>Consórcio acessível para motos novas ou usadas, com planejamento financeiro.</p>
+    </div>
+    <div class="card">
+      <h3>🏠 Imóveis</h3>
+      <p>Construa patrimônio sem financiamento e com parcelas planejadas.</p>
+    </div>
+    <div class="card">
+      <h3>🏗️ Máquinas e Equipamentos</h3>
+      <p>Invista no crescimento do seu negócio sem comprometer o capital de giro.</p>
+    </div>
+    <div class="card">
+      <h3>🧾 Serviços</h3>
+      <p>Utilize o consórcio para serviços conforme regras da administradora.</p>
+    </div>
+  </div>
+</section>
+
+<section class="container section">
+  <div class="highlight">
+    <h2>Por que escolher Consórcio?</h2>
+    <ul>
+      <li>✔️ Sem juros</li>
+      <li>✔️ Parcelas menores que financiamento</li>
+      <li>✔️ Compra planejada</li>
+      <li>✔️ Contemplação por sorteio ou lance</li>
+    </ul>
+  </div>
+</section>
+
+<section class="container section">
+  <h2>Como funciona?</h2>
+  <div class="grid">
+    <div class="card"><strong>1.</strong> Escolha o valor da carta</div>
+    <div class="card"><strong>2.</strong> Pague parcelas mensais</div>
+    <div class="card"><strong>3.</strong> Seja contemplado</div>
+    <div class="card"><strong>4.</strong> Use a carta para comprar</div>
+  </div>
+</section>
+
+<section class="container section">
+  <h2>Fale agora com um especialista</h2>
+  <p>Tire suas dúvidas e receba uma simulação personalizada sem compromisso.</p>
+  <a class="cta-btn" href="https://wa.me/5531996928531">Quero minha simulação</a>
+</section>
+
+<footer>
+  <p>© 2026 • Consultoria de Consórcios • Rodobens</p>
+</footer>
+
+<div class="fixed-whatsapp">
+  <a href="https://wa.me/5531996928531">💬 WhatsApp</a>
+</div>
+
+</body>
+</html>
